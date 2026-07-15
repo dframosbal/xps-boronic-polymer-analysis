@@ -1,5 +1,7 @@
 # XPS Analysis of Boronic Polymer-Modified Surfaces using Python
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dframosbal/xps-boronic-polymer-analysis/blob/main/notebooks/XPS_boro_analysis.ipynb)
+
 This repository presents a Python-based workflow for the analysis of X-ray Photoelectron Spectroscopy (XPS) data obtained from a boronic polymer-modified surface.
 
 The project demonstrates how to process, calibrate, fit and visualize experimental XPS spectra using Python.
