@@ -46,7 +46,6 @@ xps-boronic-polymer-analysis/
 │   └── example/
 │       └── xps_boronic_polymer_example.xy
 ├── figures/
-├── results/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
